@@ -41,7 +41,7 @@ We are 3 students from the DCI web-development department. *"BAM"* - Is the comb
 ![BamCat](preview/shop-capture.png)
 
 - ### __Product details__
-![BamCat](preview/shop-capture.png)
+![BamCat](preview/modal-product-capture.png)
 
 - ### __Cart__
 ![BamCat](preview/cart-capture.png)
